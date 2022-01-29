@@ -1,2 +1,2 @@
 # NEWS-APP
-News app built
+News app built with
