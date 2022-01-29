@@ -1,2 +1,2 @@
 # NEWS-APP
-News app built with
+News app built with Next 
